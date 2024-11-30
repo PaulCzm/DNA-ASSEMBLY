@@ -16,8 +16,6 @@ Hamiltonian Path Approach: Leverages Hamiltonian paths to explore optimal assemb
 
 Optimized for Scalability: Designed to handle large-scale DNA data for comprehensive genomic analysis.
 
-![alt text](<Image2.png>)
-
 ### Purpose
 This project is tailored for researchers and bioinformaticians working on DNA sequence assembly. By incorporating computational optimization techniques, it bridges the gap between raw sequencing data and accurate genomic insights.
 
