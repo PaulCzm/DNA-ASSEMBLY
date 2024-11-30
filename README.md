@@ -6,16 +6,19 @@ DNA sequencing generates short reads due to technological limitations, making it
 
 ![alt text](<Image1.png>)
 
-Key Features
+## Key Features
 
 Short Read Handling: Processes short DNA reads obtained during sequencing and assembles them into longer, cohesive sequences.
+
 Evolutionary Algorithm Integration: Uses evolutionary algorithms to iteratively improve the accuracy of sequence assembly.
+
 Hamiltonian Path Approach: Leverages Hamiltonian paths to explore optimal assembly routes, ensuring robust and efficient sequence reconstruction.
+
 Optimized for Scalability: Designed to handle large-scale DNA data for comprehensive genomic analysis.
 
 ![alt text](<Image2.png>)
 
-Purpose
+## Purpose
 This project is tailored for researchers and bioinformaticians working on DNA sequence assembly. By incorporating computational optimization techniques, it bridges the gap between raw sequencing data and accurate genomic insights.
 
 Feel free to explore, contribute, and enhance this tool for advanced DNA sequence reconstruction.
