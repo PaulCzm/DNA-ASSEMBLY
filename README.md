@@ -1,7 +1,7 @@
 # DNA ASSEMBLY
-DNA Sequence Reconstruction Using Computational Methods
+### DNA Sequence Reconstruction Using Computational Methods
 
-Overview
+## Overview
 DNA sequencing generates short reads due to technological limitations, making it necessary to use computational methodologies to reconstruct the complete sequenced DNA. This repository presents a codebase specifically developed to address this challenge, employing evolutionary algorithms and Hamiltonian paths to optimize the reconstruction process and generate more plausible DNA sequences.
 
 ![alt text](<Image1.png>)
