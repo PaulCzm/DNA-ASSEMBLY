@@ -14,9 +14,6 @@ Evolutionary Algorithm Integration: Uses evolutionary algorithms to iteratively 
 
 Hamiltonian Path Approach: Leverages Hamiltonian paths to explore optimal assembly routes, ensuring robust and efficient sequence reconstruction.
 
-Optimized for Scalability: Designed to handle large-scale DNA data for comprehensive genomic analysis.
 
-## Purpose
-This project is tailored for researchers and bioinformaticians working on DNA sequence assembly. By incorporating computational optimization techniques, it bridges the gap between raw sequencing data and accurate genomic insights.
 
 Feel free to explore, contribute, and enhance this tool for advanced DNA sequence reconstruction.
